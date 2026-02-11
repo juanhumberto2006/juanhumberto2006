@@ -53,17 +53,21 @@ Transformo ideas en productos funcionales con **código limpio, arquitectura só
 
 ## 🔥 **Proyectos Destacados**
 
-### 📱 **E-Commerce Platform** 
-🛒 Plataforma completa React + Spring Boot + PostgreSQL  
+### 📱 **Sistema Tienda Virtual DISTRICARNES** 
+🛒 Plataforma completa php + PostgreSQL  
 **🔗** [Demo](https://tu-demo.com) | [Repositorio](https://github.com/TU-USERNAME/ecommerce)
 
-### 💳 **Fintech Dashboard** 
-📊 Panel administrativo Laravel + React + MySQL  
+### 💳 **Tienda_Lentes** 
+📊 Panel administrativo Laravel + MySQL 
 **🔗** [Demo](https://fintech-demo.com) | [Repositorio](https://github.com/TU-USERNAME/fintech-dashboard)
+
+### 📱 **CHAT-BOT Inteligente** 
+🛒 Plataforma completa Asistente virtual impulsado por IA para atención al cliente automatizada.
+**🔗** [Demo](https://tu-demo.com) | [Repositorio](https://github.com/TU-USERNAME/ecommerce)
 
 ### 🎯 **Portfolio Personal** 
 ✨ Este mismo sitio optimizado para SEO y performance  
-**🔗** [Live](https://tu-portfolio.com)
+**🔗** [Live](https://juan-humberto-vega-sanchez.netlify.app/)
 
 ---
 
