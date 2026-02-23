@@ -23,6 +23,18 @@ Transformo ideas en productos funcionales con **código limpio, arquitectura só
 - ⚡ **Fun fact**: 🎤 Fanático del rap freestyle y la improvisación lírica
 
 ---
+## 📊 GitHub Stats
+
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-taupe-one-95.vercel.app/api?username=juanhumberto2006&show_icons=true&theme=tokyonight&hide_border=true&locale=es&hide_title=true" height="180"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juanhumberto2006&theme=tokyonight&hide_border=true" height="180"/>
+</td>
+</tr>
+</table>
 
 ## 🛠️ **Tech Stack Principal**
 
